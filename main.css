@@ -1,0 +1,26 @@
+table{border-collapse: collapse;}
+
+a
+{	color: #032B52;
+	text-decoration: none;
+}
+a:hover{color: #032B52;}
+
+th
+{	color: #032B52;
+	font-size: 18px;
+	font-weight: bold;
+}
+.ht
+{	color: #032B52;
+	font-size: 18px;
+	text-align: center;
+}
+.sh
+{	color: #1E4B78;
+	font-size: 17px;
+}
+.ph
+{	color: #668BB1;
+	font-size: 16px;
+}
